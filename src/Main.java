@@ -138,7 +138,7 @@ public class Main {
         File fiche =new File(chemin);
         for (int j=0; j<2; j++) {
             try {
-                a=b=c=d=g=f=a1=b1=c1=n=e2=0;
+
                 // Création du fichier
                 fiche.createNewFile();
                 // creation d'un writer
@@ -159,9 +159,9 @@ public class Main {
 
                 try {
                     for (int i = 1; i <= 20; i++) {
-                        fileName = dir + "bl20_" + i + ".rcp";
+                        fileName = dir + "bl25_" + i + ".rcp";
                         //fileName = dir + "bl25_14.rcp";
-                        String name = "bl_20_" + i;
+                        String name = "bl_25_" + i;
                         writer.write(name  + " | ");
                         System.out.print(name  + " | ");
 
@@ -199,6 +199,7 @@ public class Main {
                     writer.write("TIME RATIO  = " + a/d*100 + " backtracks= " +e2);
                     System.out.println("AVERAGE |" +a/n + " | " + b/n + " | " + c/n + " | " +d/n + " | " + g/n + " | " + f/n + " | ");
                     System.out.println("  TIME RATIO  = " + a/d*100+ " backtracks= " +e2  + "  The number of instances solved by the 2 prop: " +n);
+                    System.out.println(" terminé " );
                  } finally {
                     // quoiqu'il arrive, on ferme le fichier
                     writer.close();
