@@ -199,7 +199,7 @@ public class Main {
                     writer.write("TIME RATIO  = " + a/d*100 + " backtracks= " +e2);
                     System.out.println("AVERAGE |" +a/n + " | " + b/n + " | " + c/n + " | " +d/n + " | " + g/n + " | " + f/n + " | ");
                     System.out.println("  TIME RATIO  = " + a/d*100+ " backtracks= " +e2  + "  The number of instances solved by the 2 prop: " +n);
-                    System.out.println(" terminé " );
+                   // System.out.println(" terminé " );
                  } finally {
                     // quoiqu'il arrive, on ferme le fichier
                     writer.close();
