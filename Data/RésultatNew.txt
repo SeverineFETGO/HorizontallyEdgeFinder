@@ -1,0 +1,271 @@
+2020-06-29
+ 01:35:10.050978800
+Data/BL/
+ BRANCHEMENT STATIQUE  
+ Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|
+bl_20_6 | 1.3277435 | 3364 | 16 | 4944 | 0.5217991 | 3364 | 16 | 5077 |  
+bl_20_7 | 23.17145 | 123043 | 19 | 180061 | 28.038536 | 123083 | 19 | 179714 |  
+bl_20_8 | 300.00015 | 3720259 | -1 | 2673562 | 299.8037 | 4637425 | 20 | 3560842 |  
+bl_20_9 | 0.0194868 | 84 | 14 | 55 | 0.011883701 | 84 | 14 | 57 |  
+bl_20_10 | 0.0302464 | 218 | 16 | 459 | 0.0260485 | 218 | 16 | 444 |  
+bl_20_11 | 0.0017361 | 23 | 17 | 10 | 0.001257099 | 23 | 17 | 10 |  
+bl_20_12 | 300.00058 | 1779700 | -1 | 4411364 | 300.00015 | 2322265 | -1 | 5778408 |  
+bl_20_13 | 0.0502572 | 322 | 17 | 654 | 0.040292 | 308 | 17 | 647 |  
+bl_20_14 | 6.9023848 | 44421 | 18 | 101646 | 6.1861067 | 44491 | 18 | 105727 |  
+bl_20_15 | 0.1272077 | 1379 | 13 | 2210 | 0.1242106 | 1379 | 13 | 2193 |  
+bl_20_16 | 38.614845 | 519351 | 19 | 576823 | 60.026375 | 509943 | 19 | 587224 |  
+bl_20_17 | 0.0621794 | 303 | 15 | 537 | 0.0536214 | 303 | 15 | 537 |  
+bl_20_18 | 5.279085 | 26757 | 18 | 26731 | 4.740967 | 26745 | 18 | 28030 |  
+bl_20_19 | 0.004122599 | 22 | 14 | 13 | 0.0032983 | 22 | 14 | 13 |  
+bl_20_20 | 0.23455231 | 858 | 15 | 1135 | 0.2040232 | 858 | 15 | 1130 |  
+AVERAGE |5.8327146 | 55395.77 | 68867.54 | 7.6906476 | 54678.54 | 70061.766 |  
+TIME RATIO  = 75.84165 backtracks= 3.02020-06-29
+ 02:27:16.120718300
+Data/BL/
+ BRANCHEMENT STATIQUE  
+ Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|
+bl_20_6 | 0.99004585 | 3364 | 16 | 4944 | 0.623403 | 3364 | 16 | 5077 |  
+bl_20_7 | 12.310235 | 123043 | 19 | 180061 | 11.328835 | 123083 | 19 | 179714 |  
+AVERAGE |6.6501403 | 63203.5 | 92502.5 | 5.9761186 | 63223.5 | 92395.5 |  
+TIME RATIO  = 111.27858 backtracks= 0.02020-06-29
+ 02:28:59.187102800
+Data/BL/
+ BRANCHEMENT STATIQUE  
+ Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|
+bl_20_6 | 0.9895491 | 3364 | 16 | 4944 | 0.58369297 | 3364 | 16 | 4727 |  
+bl_20_7 | 11.9610405 | 123043 | 19 | 180061 | 10.531885 | 123083 | 19 | 179652 |  
+AVERAGE |6.4752946 | 63203.5 | 92502.5 | 5.557789 | 63223.5 | 92189.5 |  
+TIME RATIO  = 116.50847 backtracks= 0.02020-06-29
+ 02:30:31.018414400
+Data/BL/
+ BRANCHEMENT STATIQUE  
+ Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|
+bl_20_6 | 0.86090505 | 3364 | 16 | 4944 | 0.6424823 | 3364 | 16 | 5077 |  
+bl_20_7 | 12.061889 | 123043 | 19 | 180061 | 11.246043 | 123083 | 19 | 179714 |  
+AVERAGE |6.4613967 | 63203.5 | 92502.5 | 5.9442625 | 63223.5 | 92395.5 |  
+TIME RATIO  = 108.699715 backtracks= 0.02020-06-29
+ 02:32:51.445803700
+Data/BL/
+ BRANCHEMENT STATIQUE  
+ Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|
+bl_20_6 | 0.9604631 | 3364 | 16 | 4944 | 0.6557938 | 3364 | 16 | 4762 |  
+bl_20_7 | 11.845278 | 123043 | 19 | 180061 | 11.700298 | 123043 | 19 | 177475 |  
+AVERAGE |6.4028707 | 63203.5 | 92502.5 | 6.178046 | 63203.5 | 91118.5 |  
+TIME RATIO  = 103.63909 backtracks= 0.02020-06-29
+ 02:33:48.308986600
+Data/BL/
+ BRANCHEMENT STATIQUE  
+ Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|
+bl_20_6 | 0.9434678 | 3364 | 16 | 4944 | 0.70328885 | 3364 | 16 | 4762 |  
+bl_20_7 | 11.735168 | 123043 | 19 | 180061 | 11.342026 | 123043 | 19 | 177475 |  
+bl_20_8 | 275.74332 | 4630099 | 20 | 3513851 | 273.7493 | 4630511 | 20 | 3511667 |  
+AVERAGE |96.140656 | 1585502.0 | 1232952.0 | 95.26487 | 1585639.4 | 1231301.4 |  
+TIME RATIO  = 100.91932 backtracks= 0.02020-06-30
+ 12:59:24.751753900
+Data/BL/
+ BRANCHEMENT DYNAMIQUE  
+ Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|
+bl_20_6 | 0.0365114 | 15 | 16 | 22 | 0.0178023 | 15 | 16 | 22 |  
+bl_20_7 | 2.823675 | 17596 | 19 | 26425 | 2.077829 | 17867 | 19 | 26622 |  
+bl_20_8 | 0.070234895 | 1253 | 20 | 860 | 0.0711301 | 1253 | 20 | 860 |  
+AVERAGE |0.9768071 | 6288.0 | 9102.333 | 0.72225374 | 6378.3335 | 9168.0 |  
+TIME RATIO  = 135.24432 backtracks= 0.02020-06-30
+ 13:00:30.418406500
+Data/BL/
+ BRANCHEMENT STATIQUE  
+ Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|
+bl_20_6 | 0.8064352 | 3364 | 16 | 4944 | 0.6658231 | 3364 | 16 | 4762 |  
+bl_20_7 | 11.980782 | 123043 | 19 | 180061 | 11.305032 | 123043 | 19 | 177475 |  
+bl_20_8 | 271.22 | 4630099 | 20 | 3513851 | 264.31143 | 4630511 | 20 | 3511667 |  
+AVERAGE |94.669075 | 1585502.0 | 1232952.0 | 92.09409 | 1585639.4 | 1231301.4 |  
+TIME RATIO  = 102.79603 backtracks= 0.02020-06-30
+ 13:09:51.003774500
+Data/BL/
+ BRANCHEMENT DYNAMIQUE  
+ Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|
+bl_20_6 | 0.0025576 | 15 | 16 | 22 | 0.0033337 | 15 | 16 | 22 |  
+bl_20_7 | 2.0398715 | 17596 | 19 | 26425 | 1.9525465 | 17867 | 19 | 26622 |  
+bl_20_8 | 0.071795 | 1253 | 20 | 860 | 0.0722034 | 1253 | 20 | 860 |  
+AVERAGE |47.686916 | 795895.0 | 621027.2 | 46.38506 | 796008.8 | 620234.7 |  
+TIME RATIO  = 102.806625 backtracks= 0.02020-06-30
+ 13:27:07.810373
+Data/BL/
+ BRANCHEMENT STATIQUE  
+ Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|
+bl_20_6 | 0.8844097 | 3364 | 16 | 4944 | 0.6779321 | 3364 | 16 | 4762 |  
+bl_20_7 | 11.718316 | 123043 | 19 | 180061 | 11.0132675 | 123043 | 19 | 177475 |  
+bl_20_8 | 273.7186 | 4630099 | 20 | 3513851 | 265.1679 | 4630511 | 20 | 3511667 |  
+AVERAGE |95.44044 | 1585502.0 | 1232952.0 | 92.28637 | 1585639.4 | 1231301.4 |  
+TIME RATIO  = 103.41771 backtracks= 0.02020-06-30
+ 13:38:40.231805300
+Data/BL/
+ BRANCHEMENT STATIQUE  
+ Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|
+bl_20_6 | 0.87672126 | 3364 | 16 | 4944 | 0.66360676 | 3364 | 16 | 4762 |  
+bl_20_7 | 11.709078 | 123043 | 19 | 180061 | 11.693146 | 123043 | 19 | 177475 |  
+bl_20_8 | 267.1131 | 4630099 | 20 | 3513851 | 273.97116 | 4630511 | 20 | 3511667 |  
+AVERAGE |93.23296 | 1585502.0 | 1232952.0 | 95.442635 | 1585639.4 | 1231301.4 |  
+TIME RATIO  = 97.684814 backtracks= 0.02020-06-30
+ 13:49:18.774277700
+Data/BL/
+ BRANCHEMENT STATIQUE  
+ Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|
+bl_20_6 | 0.89550793 | 3364 | 16 | 4944 | 0.689227 | 3364 | 16 | 4762 |  
+bl_20_7 | 12.087863 | 123043 | 19 | 180061 | 11.358348 | 123043 | 19 | 177475 |  
+bl_20_8 | 276.43512 | 4630099 | 20 | 3513851 | 273.96643 | 4630511 | 20 | 3511667 |  
+AVERAGE |96.47283 | 1585502.0 | 1232952.0 | 95.338005 | 1585639.4 | 1231301.4 |  
+TIME RATIO  = 101.190315 backtracks= 0.02020-06-30
+ 14:25:56.833509700
+Data/BL/
+ BRANCHEMENT STATIQUE  
+ Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|
+bl_20_6 | 0.8363978 | 3364 | 16 | 4944 | 0.689995 | 3364 | 16 | 4762 |  
+bl_20_7 | 11.764622 | 123043 | 19 | 180061 | 11.002827 | 123043 | 19 | 177475 |  
+bl_20_8 | 270.1166 | 4630099 | 20 | 3513851 | 264.6583 | 4630511 | 20 | 3511667 |  
+AVERAGE |94.239204 | 1585502.0 | 1232952.0 | 92.117035 | 1585639.4 | 1231301.4 |  
+TIME RATIO  = 102.30378 backtracks= 0.02020-06-30
+ 14:35:53.559747200
+Data/BL/
+ BRANCHEMENT STATIQUE  
+ Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|
+bl_20_6 | 0.8214857 | 3364 | 16 | 4944 | 0.76129633 | 3364 | 16 | 4762 |  
+bl_20_7 | 11.639915 | 123043 | 19 | 180061 | 11.486684 | 123043 | 19 | 177475 |  
+bl_20_8 | 268.0435 | 4630099 | 20 | 3513851 | 278.32632 | 4630511 | 20 | 3511667 |  
+AVERAGE |93.501625 | 1585502.0 | 1232952.0 | 96.8581 | 1585639.4 | 1231301.4 |  
+TIME RATIO  = 96.534645 backtracks= 0.02020-06-30
+ 14:54:25.829818700
+Data/BL/
+ BRANCHEMENT STATIQUE  
+ Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|
+bl_20_6 | 0.82879734 | 3364 | 16 | 4944 | 0.5453763 | 3364 | 16 | 4762 |  
+bl_20_7 | 11.737415 | 123043 | 19 | 180061 | 11.164217 | 123043 | 19 | 177475 |  
+bl_20_8 | 267.21924 | 4630099 | 20 | 3513851 | 265.08713 | 4630511 | 20 | 3511667 |  
+AVERAGE |93.26182 | 1585502.0 | 1232952.0 | 92.26557 | 1585639.4 | 1231301.4 |  
+TIME RATIO  = 101.079765 backtracks= 0.02020-06-30
+ 15:15:14.664788900
+Data/BL/
+ BRANCHEMENT STATIQUE  
+ Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|
+bl_20_6 | 0.8236864 | 3364 | 16 | 4944 | 0.62008303 | 3364 | 16 | 4412 |  
+bl_20_7 | 11.751239 | 123043 | 19 | 180061 | 11.28987 | 123043 | 19 | 177378 |  
+bl_20_8 | 269.83405 | 4630099 | 20 | 3513851 | 271.82275 | 4630511 | 20 | 3518321 |  
+AVERAGE |94.13632 | 1585502.0 | 1232952.0 | 94.57757 | 1585639.4 | 1233370.4 |  
+TIME RATIO  = 99.533455 backtracks= 0.02020-06-30
+ 15:31:12.921466600
+Data/BL/
+ BRANCHEMENT STATIQUE  
+ Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|
+bl_20_6 | 0.8307864 | 3364 | 16 | 4944 | 0.625486 | 3364 | 16 | 4762 |  
+bl_20_7 | 11.704193 | 123043 | 19 | 180061 | 11.009005 | 123043 | 19 | 177475 |  
+bl_20_8 | 267.60474 | 4630099 | 20 | 3513851 | 266.50623 | 4630511 | 20 | 3511667 |  
+AVERAGE |93.379906 | 1585502.0 | 1232952.0 | 92.71357 | 1585639.4 | 1231301.4 |  
+TIME RATIO  = 100.718704 backtracks= 0.02020-06-30
+ 17:52:43.395859700
+Data/BL/
+ BRANCHEMENT STATIQUE  
+ Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|
+bl_20_6 | 0.9028636 | 3364 | 16 | 4944 | 0.67666024 | 3364 | 16 | 4762 |  
+bl_20_7 | 11.739317 | 123043 | 19 | 180061 | 11.0922165 | 123043 | 19 | 177483 |  
+bl_20_8 | 268.39398 | 4630099 | 20 | 3513851 | 269.71628 | 4630511 | 20 | 3511667 |  
+AVERAGE |93.67872 | 1585502.0 | 1232952.0 | 93.82839 | 1585639.4 | 1231304.0 |  
+TIME RATIO  = 99.840485 backtracks= 0.02020-06-30
+ 18:02:33.855912100
+Data/BL/
+ BRANCHEMENT STATIQUE  
+ Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|
+bl_20_6 | 0.9309832 | 3364 | 16 | 4944 | 0.7298996 | 3364 | 16 | 4412 |  
+bl_20_7 | 12.24839 | 123043 | 19 | 180061 | 10.747622 | 123043 | 19 | 178899 |  
+bl_20_8 | 266.6585 | 4630099 | 20 | 3513851 | 272.38818 | 4630511 | 20 | 3520666 |  
+AVERAGE |93.2793 | 1585502.0 | 1232952.0 | 94.621895 | 1585639.4 | 1234659.0 |  
+TIME RATIO  = 98.581085 backtracks= 0.02020-06-30
+ 18:30:48.839457500
+Data/BL/
+ BRANCHEMENT STATIQUE  
+ Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|
+bl_20_6 | 0.81253225 | 3364 | 16 | 4944 | 2020-06-30
+ 18:31:33.952492700
+Data/BL/
+ BRANCHEMENT STATIQUE  
+ Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|
+bl_20_6 | 0.7952122 | 3364 | 16 | 4944 | 0.6361861 | 3406 | 16 | 4291 |  
+bl_20_7 | 11.682291 | 123043 | 19 | 180061 | 2020-06-30
+ 18:32:15.234569600
+Data/BL/
+ BRANCHEMENT STATIQUE  
+ Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|
+bl_20_6 | 0.7997616 | 3364 | 16 | 4944 | 0.5413145 | 3406 | 16 | 4447 |  
+bl_20_7 | 11.816171 | 123043 | 19 | 180061 | 2020-06-30
+ 18:32:42.459985100
+Data/BL/
+ BRANCHEMENT STATIQUE  
+ Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|
+bl_20_6 | 0.800198 | 3364 | 16 | 4944 | 0.75582796 | 3364 | 16 | 4762 |  
+bl_20_7 | 11.885302 | 123043 | 19 | 180061 | 11.104464 | 123043 | 19 | 177475 |  
+bl_20_8 | 277.26465 | 4630099 | 20 | 3513851 | 265.6124 | 4630511 | 20 | 3511667 |  
+AVERAGE |96.65005 | 1585502.0 | 1232952.0 | 92.4909 | 1585639.4 | 1231301.4 |  
+TIME RATIO  = 104.496826 backtracks= 0.02020-06-30
+ 19:10:52.498052200
+Data/J60/ 
+  BRANCHEMENT STATIQUE 
+Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|  
+j30_17_10.rcp | 2020-06-30
+ 19:11:44.675367900
+Data/J60/ 
+  BRANCHEMENT STATIQUE 
+Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|  
+j30_17_10.rcp | 2020-06-30
+ 19:12:41.882671300
+Data/J60/ 
+  BRANCHEMENT STATIQUE 
+Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|  
+j60_17_10.rcp | 12.203929 | 29286 | 72 | 62312 | 7.087327 | 29286 | 72 | 62304 |  
+AVERAGE |12.203929 | 29286.0 | 62312.0 | 7.087327 | 29286.0 | 62304.0 |  
+TIME RATIO  = 172.19368 backtracks= 0.02020-06-30
+ 19:15:19.237511900
+Data/J60/ 
+  BRANCHEMENT STATIQUE 
+Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|  
+j60_17_10.rcp | 4.5757604 | 29696 | 72 | 53284 | 6.9541273 | 29286 | 72 | 62304 |  
+AVERAGE |4.5757604 | 29696.0 | 53284.0 | 6.9541273 | 29286.0 | 62304.0 |  
+TIME RATIO  = 65.7992 backtracks= 1.02020-06-30
+ 19:16:39.887106300
+Data/J60/ 
+  BRANCHEMENT STATIQUE 
+Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|  
+j60_17_10.rcp | 4.790848 | 29696 | 72 | 53284 | 5.240089 | 29286 | 72 | 62348 |  
+AVERAGE |4.790848 | 29696.0 | 53284.0 | 5.240089 | 29286.0 | 62348.0 |  
+TIME RATIO  = 91.42684 backtracks= 1.02020-06-30
+ 19:27:43.857084600
+Data/J90/ 
+  BRANCHEMENT STATIQUE 
+Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|  
+j90_43_2.rcp | 3.2210717 | 1191 | 91 | 828 | 2.5852385 | 1137 | 91 | 1180 |  
+AVERAGE |3.2210717 | 1191.0 | 828.0 | 2.5852385 | 1137.0 | 1180.0 |  
+TIME RATIO  = 124.59476 backtracks= 1.02020-06-30
+ 19:48:20.465280700
+Data/BL/
+ BRANCHEMENT STATIQUE  
+ Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|
+bl_20_6 | 0.5863424 | 3364 | 16 | 1325 | 0.82105833 | 3364 | 16 | 5077 |  
+bl_20_7 | 11.217596 | 178809 | 19 | 179672 | 10.401146 | 123083 | 19 | 179714 |  
+bl_20_8 | 300.00015 | 10632819 | -1 | 1504346 | 264.4802 | 4637425 | 20 | 3560842 |  
+AVERAGE |7.673845 | 120327.336 | 120223.0 | 91.900795 | 1587957.4 | 1248544.4 |  
+TIME RATIO  = 8.350139 backtracks= 1.02020-06-30
+ 20:00:42.993817300
+Data/BL/
+ BRANCHEMENT STATIQUE  
+ Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|
+bl_20_6 | 0.5879836 | 3364 | 16 | 1325 | 0.9785208 | 3364 | 16 | 5077 |  
+bl_20_7 | 11.373749 | 178809 | 19 | 179672 | 10.505696 | 123083 | 19 | 179714 |  
+bl_20_8 | 300.00012 | 10226252 | -1 | 1453468 | 270.685 | 4637425 | 20 | 3560842 |  
+AVERAGE |5.9808664 | 91086.5 | 90498.5 | 5.7421083 | 63223.5 | 92395.5 |  
+TIME RATIO  = 104.15802 backtracks= 1.02020-07-01
+ 15:48:18.494826600
+Data/BL/
+ BRANCHEMENT STATIQUE  
+ Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|
+bl_20_6 | 0.8301633 | 3364 | 16 | 1325 | 0.9458615 | 3364 | 16 | 5077 |  
+bl_20_7 | 12.7217865 | 178809 | 19 | 179672 | 11.227815 | 123083 | 19 | 179714 |  
+bl_20_8 | 300.00168 | 10029910 | -1 | 1437040 | 300.0043 | 3073571 | -1 | 2219710 |  
+AVERAGE |6.7759748 | 91086.5 | 90498.5 | 6.0868382 | 63223.5 | 92395.5 |  
+TIME RATIO  = 111.32175 backtracks= 1.0
