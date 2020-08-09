@@ -1,6 +1,0 @@
-2020-05-29
- 16:28:02.557371300
-Data/j6O/ 
-  BRANCHEMENT STATIQUE 
-Inst |old_time |old_backt |makespan |old_prop |new_time |new_backt |makespan |new_prop|  
-j60_1_1.rcp | 
